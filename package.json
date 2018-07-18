@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/universal-starter.git"
+    "url": "https://github.com/davidsgoncalves/angular-server-rendering-demo"
   },
   "contributors": [
     "David Gonçalves <davidsg.dev@gmail.com>"
